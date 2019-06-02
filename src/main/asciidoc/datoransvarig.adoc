@@ -109,7 +109,7 @@ Då datorbeställningen är nedtecknad ska den skickas till arenaansvarig, som s
 
 I regel så sker <<Hämtning av datorer från IP Skogen, hämtning av datorer från IP Skogen>> ett par dagar före tävling. Det är viktigt att testköra uppsättningen av datorer innan de används skarpt, rekommenderat är att göra detta senast två dagar före tävlingen så att det finns tid att fixa till eventuella problem.
 
-Kontakta deltagare i datorgruppen och bestäm datum, tid och plats för testkörningen.
+Kontakta deltagare i datorgruppen samt tävlingssekreterare och bestäm datum, tid och plats för testkörningen.
 
 == Hämtning av datorer från IP Skogen
 
@@ -117,7 +117,7 @@ Datorer och kringprylar får plats i en normalstor bil (typ Opel Corsa, Kia Niro
 
 * Kontrollera så att router kommer med (om beställd), lätt att missa då den ligger i sin egen låda.
 * Laserskrivare finns i lådor av olika storlek, ta de minsta lådorna om möjligt (får plats bättre i bilen)
-* Om hämtning av Sportident hyrbrickor, kontrollera ifall brickor saknas i träplattorna och inte har markerats (bricklösa hål brukar markeras med gula öronproppar om de saknas)
+* Om hämtning av Sportident hyrbrickor, kontrollera ifall brickor saknas i träplattorna och inte har markerats av IP Skogen (bricklösa hål ska ha markerats med gula öronproppar)
 
 
 == Förberedelser av datorer
