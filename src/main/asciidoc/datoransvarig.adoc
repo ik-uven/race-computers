@@ -9,35 +9,59 @@
 Tävlingsledare har i regel påbörjat processen, men det är bra om datoransvarig fortsätter med att samla ihop laget.
 
 === Förbered datorbeställning
-Arenaansvarig sköter den totala beställningen mot IK Uven, vilken läggs senast två veckor innan tävlingsstart. Datoransvarig ser till att sammanställa den del av beställningen som rör datorer och kontroller och skickar sedan detta till arenaansvarig. För att ordna beställningen behöver följande redas ut:
+Arenaansvarig sköter den totala beställningen mot IK Uven, vilken läggs senast två veckor innan tävlingsstart. Datoransvarig ser till att sammanställa den del av beställningen som rör datorer och kontroller och skickar sedan detta till arenaansvarig.
 
-* Antal datorer som behövs
-** Antal tävlingsdatorer
-** Antal måldatorer för avläsning
+För att ordna beställningen behöver följande redas ut:
 
-Typiska användningsområden för tävlingsdatorer
+* Antal <<Måldatorer,måldatorer>> för avläsning och sträcktidsutskrift
+* Antal <<Tävlingsdatorer,tävlingsdatorer>>
+* <<Router>>
+* Behov av <<Skrivare,skrivare>>
+* Extra <<Datortillbehör,datortillbehör>>
+* Antal <<Förbered beställning av basenheter,basenheter>>
+* Antal <<Förbered beställning av hyrbrickor,hyrbrickor>>
 
-* 1 som agerar OLA-server som övriga kopplar upp sig till
-* 1 som används i sekreteriat som ändringsdator
-* 1 som används i sekreteriat för utskrifter 
-* 1 som används av speaker + 2 målenheter (håller koll på personer som går i mål)
-* 1 som används av speaker (för OLA-klient)
-* 2 som används av direktanmälan
+==== Måldatorer
 
-* Antal skrivare
-** Sträcktidsskrivare (för utskrift vid målgång)
-** Laserskrivare (till bl a sekreteriat)
-** Pappersrullar till sträcktidsskrivare (OBS, behövs oftast inte beställas, finns i regel att tillgå i Bunketorp)
-** Papper till laserskrivare (OBS, behövs oftast inte beställas, finns i regel att tillgå i Bunketorp)
+Måldatorer används för att registrera deltagare efter att de stämplat ut i målgång. I anslutning till målet används oftast en husvagn där måldatorer riggats upp. Varje deltagare registrerar sin sportident i en avläsare och erhåller en utskrift med sträcktider.
 
-* Datortillbehör
-** Router
-** Tillbehörsväska (med bl a switchar)
-** Nätverkslåda (med ethernetkablar mm)
-** Väska med nödkit
+Vanligtvis används 2 stycken måldatorer med varsin avläsare och sträcktidsskrivare.
+
+Måldatorerna är uppkopplade mot en tävlingsdator som agerar OLA-Server.
 
 [TIP]
-Be om att få beställningsdokument från föregående tävling, antingen från tidigare datoransvarig alternativt arenaansvarig.
+IP Skogen har två datorer förberedda för detta syfte, GOF23 och GOF24.
+
+==== Tävlingsdatorer
+
+Typiska användningsområden för tävlingsdatorer:
+
+* 1 som agerar OLA-server som övriga datorer kopplar upp sig till
+* 2 som används vid direktanmälan
+* 1 som används i sekreteriat som ändringsdator
+* 1 som används i sekreteriat för utskrifter
+* 1 som används av speaker + 2 avläsare (håller koll på personer som går i mål)
+* 1 som används av speaker (för OLA-klient)
+
+==== Router
+
+En router behövs för att skapa det lokala nätverk som används under tävlingen. Beställ denna via IP Skogen.
+
+==== Skrivare
+
+* Sträcktidsskrivare (för utskrift vid målgång, att användas med datorer GOF23 och GOF24)
+* Laserskrivare (till bl a sekreteriat)
+* Pappersrullar till sträcktidsskrivare (OBS, behövs oftast inte beställas, finns i regel att tillgå i Bunketorp)
+* Papper till laserskrivare (OBS, behövs oftast inte beställas, finns i regel att tillgå i Bunketorp)
+
+==== Datortillbehör
+
+* Tillbehörsväska (med bl a switchar)
+* Nätverkslåda (med långa ethernetkablar mm)
+* Väska med nödkit
+
+[TIP]
+Be om att få beställningsdokument från föregående tävling för att få en känsla om vad som används. Dokumentet kan fås av tidigare datoransvarig alternativt arenaansvarig.
 
 === Förbered beställning av basenheter
 
@@ -46,10 +70,10 @@ Basenheter benämns ibland som kontroller, och även SI-enheter
 Om speaker används på tävling måste basenheter med seriekabel för
 speakerstöd beställas, i regel två stycken.
 
-Kontakta banläggare för att få reda på vilka kontroller som kommer användas. Notera att i ett tidigt skede kanske banläggare inte har utsättningsbanorna klara i detalj, det viktigaste inför beställningen är att få reda på antalet kontroller.
+Kontakta banläggare för att få reda på vilka kontroller som kommer användas. Notera att i ett tidigt skede kanske banläggare inte har utsättningsbanorna klara i detalj, det viktigaste inför beställningen är att få reda på:
 
 * Antal kontroller som behövs
-* Vilka kontroller som används för varje utsättningsbana (om klart, behövs egentligen senare vid konfiguration och test av kontroller)
+* Vilka kontroller som används för varje utsättningsbana (om detta är klart, behövs egentligen senare vid konfiguration och test av kontroller)
 * Om det finns kontroller som ska ha fler än en enhet (oftast kontroll 100 och 200), och i så fall hur många
 
 Kontakta startansvarig angående
@@ -59,25 +83,46 @@ Kontakta startansvarig angående
 * Antal basenheter för Check
 
 [TIP]
-Be om att få beställningsdokument från föregående tävling, antingen från tidigare datoransvarig alternativt arenaansvarig.
+Be om att få beställningsdokument från föregående tävling för att få en känsla om vad som används. Dokumentet kan fås av tidigare datoransvarig alternativt arenaansvarig.
+
+=== Förbered beställning av hyrbrickor
+
+Kontakta tävlingssekreterare angående
+
+* Antal Sportidentbrickor som ska beställas (används som hyrbrickor vid direktanmälan)
+
 
 === Fyll i datordel av beställning
-När datorbeställning är färdigutredd - fyll i basenhetsdel och datordel av beställningsdokumentet.
+När datorbeställning är färdigutredd - fyll i sektionen _Datorer och Sportidentutrustning_ i beställningsdokumentet.
 
-Skicka sedan till arenaansvarig.
+Sektionen innehåller ett flertal understycken, där nedanstående är de mest relevanta från datoransvariges perspektiv
 
-== Hämtning av datorer IP Skogen
+* Hyrbrickor
+* Basenheter
+* Datorer
+* Skrivare
+* Datatillbehör
+
+Då datorbeställningen är nedtecknad ska den skickas till arenaansvarig, som sammanställer hela beställningen innan den går i väg till IP Skogen.
+
+=== Bestäm tid för testkörning
+
+I regel så sker <<Hämtning av datorer från IP Skogen, hämtning av datorer från IP Skogen>> ett par dagar före tävling. Det är viktigt att testköra uppsättningen av datorer innan de används skarpt, rekommenderat är att göra detta senast två dagar före tävlingen så att det finns tid att fixa till eventuella problem.
+
+Kontakta deltagare i datorgruppen och bestäm datum, tid och plats för testkörningen.
+
+== Hämtning av datorer från IP Skogen
 
 Datorer och kringprylar får plats i en normalstor bil (typ Opel Corsa, Kia Niro, Volvo V40) om säten fälls och utan medpassagerare.
 
-* Kontrollera så att router kommer med (om beställd)
+* Kontrollera så att router kommer med (om beställd), lätt att missa då den ligger i sin egen låda.
 * Laserskrivare finns i lådor av olika storlek, ta de minsta lådorna om möjligt (får plats bättre i bilen)
-* Om hämtning av Sportidentpinnar/brickor, kontrollera ifall brickor saknas och inte har markerats (de brukar markeras med gult om de saknas)
+* Om hämtning av Sportident hyrbrickor, kontrollera ifall brickor saknas i träplattorna och inte har markerats (bricklösa hål brukar markeras med gula öronproppar om de saknas)
 
 
 == Förberedelser av datorer
 
-Ett par dagar innan tillfället: Hör med tävlingssekreteraren vilken OLA-version de har använt vid skapande av tävling, ladda ned denna och lägg på dropbox.
+Ett par dagar innan tävlingstillfället: Hör med tävlingssekreteraren vilken OLA-version de har använt vid skapande av tävling, ladda ned denna och lägg på dropbox.
 
 [NOTE]
 Endast _Administratör_ eller _Arrangemengsansvarig_ på klubbens Eventor-sida kan ladda ner OLA.
@@ -95,7 +140,7 @@ OLA-version för tävling: 5.10.1
 . Starta Sportident config+
 . Välj Klocka _TODO: Hur gjorde vi här?_
 +
-image::configplus-ställ-klocka.png[]
+image::configplus-stall-klocka.png[]
 
 
 === Trådlös router
@@ -110,7 +155,7 @@ image::configplus-ställ-klocka.png[]
 Koppla router till serverdator med nätverkskabel
 
 
-=== Datorer
+=== Datorer översikt
 Nedan tabell sammanställer vilka datorer som brukar användas under tävling
 
 [width="100%",options="header"]
@@ -127,7 +172,7 @@ Nedan tabell sammanställer vilka datorer som brukar användas under tävling
 |192.168.18. |GOF36 |Utskrifter
 |===
 
-=== Datorer lösenord
+=== Användare och lösenord till datorer
 * GOF/GOF
 * Admin/GOF (gamla), Admin/IPSkogen (nya)
 
@@ -142,7 +187,7 @@ Detta skapar garanterat förvirring, så grundregel: Användare X vid torrkörni
 
 === Server
 
-Börja med att förbereda OLA-server. För att serverprogrammet ska svara korrekt, måste tävling skapas. Detta görs genom att först starta OLA-klient och skapa en tävling där.
+Börja med att förbereda OLA-server. För att serverprogrammet ska svara korrekt, måste tävling ha skapats. Detta görs genom att först starta OLA-klient och skapa en tävling där.
 
 . Starta OLA-Klient
 
@@ -165,7 +210,7 @@ Tävlingssekreteraren har oftast en dagsfärsk tävlingsfil, importera denna til
 
 . Peka ut fil att återställa, klicka _Återställ_
 +
-image::ola-server-återställ.png[]
+image::ola-server-aterstall.png[]
 .. Förväntat: Databas återställd utan fel!
 +
 [NOTE]
@@ -176,7 +221,7 @@ Om inte tävling dyker upp i dropdown
 . Använd inbyggd
 . Klicka _Sök_, vänta lite
 +
-image::ola-server-sök-tävling.png[]
+image::ola-server-sok-tavling.png[]
 . Välj tävling när den dyker
 . Klicka _Spara_
 ====
@@ -231,7 +276,7 @@ image::ola-klient-open-from-server.png[]
 
 . Gå till Brickinläsning Sportident
 +
-image::ola-klient-läs-bricka-målgång.png[]
+image::ola-klient-las-bricka-malgang.png[]
 
 . Starta Sportident Config+
 .. Ta reda på COM port samt hastighet
@@ -239,9 +284,9 @@ image::ola-klient-läs-bricka-målgång.png[]
 
 . I OLA-Klient, Brickinläsning Sportident, välj ikon för Serieportsinställningar
 +
-image::ola-klient-serieportsinst-mål.png[]
+image::ola-klient-serieportsinst-mal.png[]
 +
-image::ola-klient-serieportsinst-mål2.png[]
+image::ola-klient-serieportsinst-mal2.png[]
 
 . Klicka _Lägg till_
 
@@ -252,7 +297,7 @@ image::ola-klient-serieportsinst-mål2.png[]
 .. Grön plupp också
 
 . Kontrollera att utskrift från skrivare sker automatiskt för den registrerade löparen
-.. Felsökning skrivare: Om inte skrivare inte dyker upp i förteckningen över skrivare, starta om och se till att skrivaren är påslagen innan omstart sker
+.. Felsökning skrivare: Om skrivare inte dyker upp i förteckningen över skrivare, starta om och se till att skrivaren är påslagen innan omstart sker
 .. Felsökning om målgång registreras men skrivare inte skriver ut: GOF23 och GOF24 har glappkänsliga kontakter för nätverkskabel, prova att trycka in kabel ordentligt, läs sedan om pinnen
 
 === Direktanmälan
@@ -293,9 +338,11 @@ image::ola-klient-serieportsinst2.png[]
 - 2 x målenhet + lång kabel + serial-to-USB till samma dator
 - den andra är enbart för OLA klient
 
-=== Föreberedelser kontroller
+== Föreberedelser kontroller
 
 TODO
+
+_Vi behöver tanka av Anton här för att skriva en detaljerad beskrivning hur basenheter förbereds och packas ihop till utsättarna_
 
 Timemaster, togglar mellan tre funktioner::
 * TIMEMA: ställ bara tid
@@ -388,7 +435,7 @@ Nu startar uppladdningen till LiveResult och fortsätter tills man stänger ner
 . Lägg upp länk på tävlingens sida på Eventor
 .. Gå in på https://liveresultat.orientering.se och klicka in på tävlingen
 .. Kopiera länken för tävlingen från webbläsare
-.. Logga in på Eventor (måste ha admin eller tävlingsarr rättighet)
+.. Logga in på Eventor (måste vara _Administratör_ eller _Arrangemengsansvarig_)
 .. Gå till tävlingssida och skapa ny länk (under Dokument och länkar)
 .. Förväntat resultat:
 +
