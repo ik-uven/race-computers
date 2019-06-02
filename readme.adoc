@@ -3,3 +3,13 @@
 Html-version: https://ik-uven.github.io/race-computers
 
 Pdf-version: https://ik-uven.github.io/race-computers/datoransvarig.pdf
+
+[NOTE]
+====
+Notera att källkoden ligger under `src/main/asciidoc`.
+
+Html och Pdf filer som ligger under `docs/` är genererade utifrån innehållet i `src/main/asciidoc`. Detta sker just nu innan commit men ska kolla om jag får till ett flöde som fixar detta automatiskt.
+
+Anledningen till `doc/` överhuvudtaget är att Github automatiskt publicerar innehåll i den katalogen så att de kan nås från https://ik-uven.github.io/race-computers.
+====
+
